@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "974826798064",
+    "project_id": "flashcard-1c2b0",
+    "storage_bucket": "flashcard-1c2b0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974826798064:android:21c490ddc492d67645fb35",
+        "android_client_info": {
+          "package_name": "com.awesomeproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "974826798064-cd3njsrjgqofh97a72oi8vr7akbb7acs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6MBOM7NOXc_YuUq4d0hnyk1Eh9k2MYXQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "974826798064-cd3njsrjgqofh97a72oi8vr7akbb7acs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
